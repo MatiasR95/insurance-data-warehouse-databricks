@@ -28,4 +28,4 @@ Synthetic insurance data including:
 - Git & GitHub
 
 ## Author
-Your Name
+Matias Ross - Data Analyst
